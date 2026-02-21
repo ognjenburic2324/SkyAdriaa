@@ -65,7 +65,7 @@ function printNav() {
               <a class="nav-link" href="author.html">Author</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="SkyAdria.zip" download>Download Zip</a>
+              <a class="nav-link" href="skyAdria.zip" download>Download Zip</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="SkyAdriaDoc.pdf">Documentation</a>
@@ -176,7 +176,7 @@ function printFooter() {
       </li>
       <li><a href="author.html" class="text-decoration-none">Author</a></li>
       <li>
-        <a href="SkyAdria.zip" download class="text-decoration-none"
+        <a href="skyAdria.zip" download class="text-decoration-none"
           >Download Zip</a
         >
       </li>
